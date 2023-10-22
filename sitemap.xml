@@ -1,49 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aplantc0.github.io/tags/2020/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/film/25/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aplantc0.github.io/categories/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/tags/color/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/tags/expired/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/tags/film/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/film/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aplantc0.github.io/tags/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aplantc0.github.io/tags/zenit/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aplantc0.github.io/categories/</loc>
+  </url><url>
     <loc>https://aplantc0.github.io/work/</loc>
   </url>
-  
-  <url>
-    <loc>https://aplantc0.github.io/tags/zenit/</loc>
-  </url>
-  
 </urlset>
