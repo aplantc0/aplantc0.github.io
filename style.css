@@ -138,3 +138,15 @@ a:active {
     text-decoration: underline;
 }
 
+.film-recursive {
+  margin-bottom: .1em; /* Adjust this value as needed */
+}
+
+:root {
+  --highlight-color: #66BB6A; /* Using the medium green color
+  to highlight a name in refs */
+}
+
+.bibliography {
+  text-align: justify;
+}
