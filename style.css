@@ -1,0 +1,159 @@
+body {
+    background: #FAFAFA; /* light gray */
+    color: #333333; /* dark gray */
+    margin-bottom: 50px;
+    font-family: sans-serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji';
+}
+
+main {
+    max-width: 600px;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.selfie img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+
+.kolapen img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+
+header h1 {
+    text-align: center;
+    color: #FF5722; /* vibrant orange */
+}
+
+header h2 {
+    margin-top: 0;
+    font-style: italic;
+    padding: .5em;
+    color: #673AB7; /* vibrant purple */
+}
+
+h2, h3, h4, h5, h6 {
+    text-align: left;
+}
+
+h1 {
+    color: #FF5722; /* vibrant orange */
+}
+
+h2 {
+    color: #673AB7; /* vibrant purple */
+}
+
+h3 {
+    color: #4CAF50; /* vibrant green */
+}
+
+h4 {
+    color: #FF7043; /* vibrant light orange */
+}
+
+h5, h6 {
+    color: #2196F3; /* vibrant blue */
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+    text-align: center;
+    clear: both;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+    /* The container for both the previous and next articles. */
+}
+
+#prevart {
+    float: left;
+    text-align: left;
+}
+
+#nextart {
+    float: right;
+    text-align: right;
+}
+
+#nextart, #prevart {
+    max-width: 33%;
+}
+
+#tagcloud {
+    clear: both;
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    border: solid 1px #333333; /* dark gray */
+    border-style: dashed;
+    border-radius: 10px;
+    max-width: 50%;
+}
+
+code {
+    color: #4CAF50; /* vibrant green */
+    overflow-wrap: break-word;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: large;
+    color: #FF7043; /* vibrant light orange */
+}
+
+/* unvisited link */
+a:link {
+    color: #2196F3; /* vibrant blue */
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #673AB7; /* vibrant purple */
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF5722; /* vibrant orange */
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #4CAF50; /* vibrant green */
+    text-decoration: underline;
+}
+
+.film-recursive {
+  margin-bottom: .1em; /* Adjust this value as needed */
+}
+
+:root {
+  --highlight-color: #4CAF50; /* vibrant green to highlight a name in refs */
+}
+
+.bibliography {
+  text-align: justify;
+}
+
